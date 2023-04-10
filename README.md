@@ -2,8 +2,7 @@
 
 This repository contains the solution for a simple social media platform consisting of a backend API and a frontend UI with analytics pages. The platform supports creating, reading, updating, and deleting operations for user profiles and posts. Users can also "like" and "unlike" posts. The analytics pages display insights on user engagement and content popularity.
 
-Backend API
-Models
+
 The backend API includes two models:
 
 User - Contains the following fields:
@@ -24,7 +23,6 @@ id (unique identifier)
 4. updated_at (timestamp, automatically updated when the post is updated)
 5. likes (integer, non-negative)
 
-Endpoints
 The following endpoints are implemented in the backend API:
 
 User Endpoints

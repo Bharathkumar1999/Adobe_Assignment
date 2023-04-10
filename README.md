@@ -66,6 +66,6 @@ Instructions
 3. Set up the database.
 4. Run the backend API.
 
-Frontend Deployment Link: https://adobe-tau.vercel.app/
-Backend Deployment Link :https://wild-teal-ox-slip.cyclic.app
+1. Frontend Deployment Link: https://adobe-tau.vercel.app/
+2. Backend Deployment Link :https://wild-teal-ox-slip.cyclic.app
 

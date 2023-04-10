@@ -65,3 +65,7 @@ Instructions
 2. Install the dependencies for the backend and the frontend.
 3. Set up the database.
 4. Run the backend API.
+
+Frontend Deployment Link: https://adobe-tau.vercel.app/
+Backend Deployment Link :https://wild-teal-ox-slip.cyclic.app
+

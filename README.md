@@ -1,6 +1,5 @@
 # Adobe_Assignment
 
-Social Media Platform
 This repository contains the solution for a simple social media platform consisting of a backend API and a frontend UI with analytics pages. The platform supports creating, reading, updating, and deleting operations for user profiles and posts. Users can also "like" and "unlike" posts. The analytics pages display insights on user engagement and content popularity.
 
 Backend API
